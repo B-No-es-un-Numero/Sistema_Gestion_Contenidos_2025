@@ -1,10 +1,11 @@
-# 📌 WappTurno
+# 📌 B no es un número
 ---
 # 📖 Descripción
 
-B no es un número presenta WappTurno, un sistema web de gestión de turnos pensado para el área de la salud.
+Somos "B no es un número", un equipo dedicado a ofrecer soluciones digitales que marcan la diferencia. Creamos herramientas que resuelven problemas.
 
-El sistema permitirá a los usuarios:
+# 📌 Producto destacado: WappTurno
+#Características principales
 
 📅 Realizar altas, ediciones y cancelaciones de turnos de manera simple y eficiente.
 
