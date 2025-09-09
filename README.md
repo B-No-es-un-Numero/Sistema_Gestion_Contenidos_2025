@@ -1,17 +1,8 @@
-# 📌 B no es un número
+# 📌 BNaN
 ---
 # 📖 Descripción
 
 Somos "B no es un número", un equipo dedicado a ofrecer soluciones digitales que marcan la diferencia. Creamos herramientas que resuelven problemas.
-
-# 📌 Producto destacado: WappTurno
-#Características principales
-
-📅 Realizar altas, ediciones y cancelaciones de turnos de manera simple y eficiente.
-
-💳 Contar con una pasarela de pago para abonar consultas de forma anticipada.
-
-📲 Recibir mensajes automáticos por WhatsApp de confirmación y recordatorio de sus turnos.
 
 ---
 ⚙️ Instalación de XAMPP y WordPress
