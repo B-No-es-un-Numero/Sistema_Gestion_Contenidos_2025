@@ -1,0 +1,33 @@
+# Core de WordPress
+/wp-admin/
+/wp-includes/
+/license.txt
+/readme.html
+/wp-*.php
+/xmlrpc.php
+
+# Cachés y temporales
+wp-content/cache/
+wp-content/backups/
+wp-content/upgrade/
+wp-content/advanced-cache.php
+wp-content/object-cache.php
+
+# Configuración sensible
+wp-config.php
+.env
+*.sql
+*.bak
+*.log
+
+# Node / Composer
+node_modules/
+vendor/
+
+# SO / IDE files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
