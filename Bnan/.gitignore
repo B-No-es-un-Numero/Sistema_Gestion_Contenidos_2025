@@ -6,6 +6,12 @@
 /wp-*.php
 /xmlrpc.php
 
+# EXCEPCIÓN: incluir composer.json dentro de sodium_compat
+/Bnan/wp-includes/
+!/Bnan/wp-includes/sodium_compat/
+/!Bnan/wp-includes/sodium_compat/composer.json
+
+
 # Cachés y temporales
 wp-content/cache/
 wp-content/backups/
