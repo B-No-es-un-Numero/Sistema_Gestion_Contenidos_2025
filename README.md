@@ -1,16 +1,8 @@
-# 📌 WappTurno
+# 📌 BNaN
 ---
 # 📖 Descripción
 
-B no es un número presenta WappTurno, un sistema web de gestión de turnos pensado para el área de la salud.
-
-El sistema permitirá a los usuarios:
-
-📅 Realizar altas, ediciones y cancelaciones de turnos de manera simple y eficiente.
-
-💳 Contar con una pasarela de pago para abonar consultas de forma anticipada.
-
-📲 Recibir mensajes automáticos por WhatsApp de confirmación y recordatorio de sus turnos.
+Somos "B no es un número", un equipo dedicado a ofrecer soluciones digitales que marcan la diferencia. Creamos herramientas que resuelven problemas. Para ver nuestro sitio y saber más acerca de nosotros, hacé click [aquí](https://bnan.free.nf/). También, podés seguir los detalles del proceso de trabajo en la [wiki](https://github.com/B-No-es-un-Numero/Sistema_Gestion_Contenidos_2025/wiki) y nuestro [kanban](https://github.com/orgs/B-No-es-un-Numero/projects/12)
 
 ---
 ⚙️ Instalación de XAMPP y WordPress
