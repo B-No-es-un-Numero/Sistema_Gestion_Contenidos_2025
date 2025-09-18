@@ -2,7 +2,7 @@
 ---
 # 📖 Descripción
 
-Somos "B no es un número", un equipo dedicado a ofrecer soluciones digitales que marcan la diferencia. Creamos herramientas que resuelven problemas.
+Somos "B no es un número", un equipo dedicado a ofrecer soluciones digitales que marcan la diferencia. Creamos herramientas que resuelven problemas. Para ver nuestro sitio y saber más acerca de nosotros, hacé click [aquí](https://bnan.free.nf/). También, podés seguir los detalles del proceso de trabajo en la [wiki](https://github.com/B-No-es-un-Numero/Sistema_Gestion_Contenidos_2025/wiki) y nuestro [kanban](https://github.com/orgs/B-No-es-un-Numero/projects/12)
 
 ---
 ⚙️ Instalación de XAMPP y WordPress
